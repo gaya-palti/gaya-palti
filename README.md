@@ -77,3 +77,7 @@ A job-search tracker with a drag-and-drop Kanban pipeline, an analytics dashboar
 **Web & mobile:** Flutter · Next.js · React · FastAPI · Socket.IO · Tailwind
 
 **Cloud & infra:** Firebase · Oracle Cloud · Docker · Vercel · GitHub Actions
+
+## Contact
+
+**[LinkedIn](https://www.linkedin.com/in/gaya-palti-934735218)** · **[GitHub](https://github.com/gaya-palti)** · **[Email](mailto:gayapalti@gmail.com)**
