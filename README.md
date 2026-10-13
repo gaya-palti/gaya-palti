@@ -2,7 +2,13 @@
 
 B.Sc. in Computer Science. I build end-to-end products, from the model to the app people use, with a focus on computer vision and AI agents.
 
-## VinyasaVision
+## Experience
+
+**Software Developer** | ZebeAI
+
+## Projects
+
+### VinyasaVision
 
 **[Web app](https://vinyasa-vision.web.app)** · **[Demo](https://drive.google.com/file/d/1pIMUbc9Qz2r6oLaa8tOv3InJoSf2uXhf/view)**
 
@@ -10,7 +16,7 @@ A yoga teacher films her practice, and VinyasaVision turns the video into an edi
 
 **Stack:** Flutter, Firebase, Python, MediaPipe, scikit-learn, Oracle Cloud
 
-## LinguAgent
+### LinguAgent
 
 **[Repo](https://github.com/gaya-palti/LinguAgent)** · **[Web app](https://lingu-agent.vercel.app)** · **[Demo](https://drive.google.com/file/d/1FU4lVacWta0ftjripQ7NH9TOu9ccm_ss/view)**
 
@@ -18,7 +24,7 @@ A multi-agent AI language tutor that can call your real phone for live speaking 
 
 **Stack:** PydanticAI, FastAPI, SQLite, Next.js, OpenAI (language and text-to-speech)
 
-## OSINT Analyzer
+### OSINT Analyzer
 
 **[Repo](https://github.com/gaya-palti/OSINT-analyzer)** · **[Demo](https://drive.google.com/file/d/1AyMDZNaXBFP7r40-LWz9HS6gMKHW1FCb/view)**
 
@@ -26,7 +32,7 @@ A chain of vision LLMs analyses satellite imagery. Given a coordinate, it pilots
 
 **Stack:** Selenium, OpenAI, Gemini, Moondream, Streamlit
 
-## Generation 2048
+### Generation 2048
 
 **[Repo](https://github.com/gaya-palti/2048-Neural-Network)** · **[Demo](https://drive.google.com/file/d/10Ub3lf5qAm_pCEzkI1rbRr9l9-bLw759/view)**
 
@@ -34,7 +40,7 @@ A neural network that learns 2048 through neuroevolution, with no labelled data 
 
 **Stack:** Keras, NumPy, FastAPI, React, Pygame
 
-## Multiplayer Trivia
+### Multiplayer Trivia
 
 **[Repo](https://github.com/gaya-palti/multiplayer-trivia)** · **[Web app](https://multiplayer-trivia-two.vercel.app)** · **[Demo](https://drive.google.com/file/d/19oU-NMd10_Yrylwqb33OCn7bzJb4MGn3/view)**
 
@@ -42,7 +48,7 @@ A real-time multiplayer trivia game with a matchmaking window, answers scored by
 
 **Stack:** FastAPI, Socket.IO, SQLite, Next.js, Docker, Caddy
 
-## Iceberg-Style Columnar Database Engine
+### Iceberg-Style Columnar Database Engine
 
 **[Repo](https://github.com/gaya-palti/Iceberg-Style-Columnar-Database-Engine)**
 
@@ -50,7 +56,7 @@ A columnar database engine inspired by Apache Iceberg, from on-disk storage up t
 
 **Stack:** Rust
 
-## Job Application Tracker
+### Job Application Tracker
 
 **[Repo](https://github.com/gaya-palti/Job-Application-Tracker)** · **[Web app](https://job-application-tracker-533084568852.us-west1.run.app)** · **[Demo](https://drive.google.com/file/d/1cZQp9Ing1kHBz3oL2MAe5wbwxJ1Bodl0/view)**
 
