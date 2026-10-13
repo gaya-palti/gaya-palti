@@ -61,6 +61,9 @@ A job-search tracker with a drag-and-drop Kanban pipeline, an analytics dashboar
 ## Tech I work with
 
 **Languages:** Python · TypeScript · Dart · Rust · C · C# · Java
+
 **AI / ML:** MediaPipe · scikit-learn · Keras · PydanticAI · OpenAI & Gemini APIs
+
 **Web & mobile:** Flutter · Next.js · React · FastAPI · Socket.IO · Tailwind
+
 **Cloud & infra:** Firebase · Oracle Cloud · Docker · Vercel · GitHub Actions
