@@ -4,7 +4,7 @@ B.Sc. in Computer Science. I build end-to-end products, from the model to the ap
 
 ## Experience
 
-**Software Developer** | ZebeAI
+**Software Developer** | [ZebeAI](https://zebeai.info/)
 
 An analytics platform that tracks AI-generated political content in the 2026 Israeli election campaign. It collects posts from Facebook, X, Instagram and TikTok, flags AI-generated media with automated detectors, decodes it with Hebrew OCR and speech recognition, and publishes to a public dashboard only what a human reviewer has approved.
 
